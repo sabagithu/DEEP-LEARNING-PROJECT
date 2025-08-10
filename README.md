@@ -1,11 +1,11 @@
 # DEEP-LEARNING-PROJECT
 
-Company Name: CodTech IT Solutions
-Intern Name: AYESHA SABA
-Intern ID: CT4MWP218
-Domain: Data Science
-Duration: 16 Weeks
-Mentor: Neela Sanrosh
+- **Company Name**: CodTech IT Solutions  
+- **Intern Name**: *AYESHA SABA *  
+- **Intern ID**: CT4MWP218  
+- **Domain**: Data Science  
+- **Duration**:  16 Weeks  
+- **Mentor**: Neela Sanrosh 
 
 # 🎬 IMDB Movie Review Sentiment Analysis
 
@@ -91,3 +91,19 @@ To recreate the environment:
 conda create --name tf_env python=3.x
 conda activate tf_env
 pip install -r requirements.txt
+
+### 📁 Repository Contents
+- `Task2_deep_learning.ipynb` – Jupyter Notebook containing the full workflow: data loading, preprocessing, model building, training, and evaluation.  
+- `best_sentiment_model.h5` – Saved LSTM model with optimized weights for sentiment classification.  
+- `README.md` – Project documentation and overview.
+
+---
+
+## 🚀 Potential Applications
+- Sentiment analysis for movie recommendation systems  
+- Customer feedback classification in e-commerce platforms  
+- Social media sentiment tracking for brand reputation
+
+---
+
+
